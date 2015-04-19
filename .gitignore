@@ -1,0 +1,10 @@
+
+*.phar
+
+*.json
+
+*.lock
+
+config/constants.php
+
+*.xml
